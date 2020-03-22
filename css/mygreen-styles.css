@@ -19,7 +19,7 @@ header {
 	margin-bottom: 10px;
 	background-image: -webkit-linear-gradient(90deg,rgba(9,127,163,1.00) 0%,rgba(14,98,152,1.00) 100%);
 	background-image: -moz-linear-gradient(90deg,rgba(9,127,163,1.00) 0%,rgba(14,98,152,1.00) 100%);
-	background-image: url(images/fern.png) , url(images/stripe.png) , linear-gradient(180deg,rgba(0,153,0,1.00) 0%,rgba(0,204,0,1.00) 100%);
+	background-image: url("../images/fern.png"), url("../images/stripe.png"), linear-gradient(180deg,rgba(0,153,0,1.00) 0%,rgba(0,204,0,1.00) 100%);
 	-webkit-box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.55);
 	box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.55);
 	background-repeat: no-repeat , repeat-x;
